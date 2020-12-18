@@ -5,6 +5,8 @@ Realtime drawing game with Socket.IO, Gulp
 ## TODO
 
 - [x] Server
-- [ ] Setup Pug
-- [ ] Static files
-- [ ] Socket.io
+- [x] Setup Pug
+- [x] Static files
+- [x] Socket.io
+- [x] Chat
+- [ ] Draw game 
