@@ -21,4 +21,4 @@ app.get('/', (req, res) => {
 const webAppServer = app.listen(PORT, listening);
 const io = socketIO(webAppServer);
 
-io.on('connection', (socket) => socketController(socket));
+io.on('connection', (socket) => socketController(socket, io));
