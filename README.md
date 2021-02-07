@@ -9,4 +9,4 @@ Realtime drawing game with Socket.IO, Gulp
 - [x] Static files
 - [x] Socket.io
 - [x] Chat
-- [ ] Draw game 
+- [x] Draw game 
